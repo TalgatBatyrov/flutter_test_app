@@ -1,4 +1,5 @@
-package com.example.flutter_test_app
+package ancientle.pixx.propoz
+
 
 import io.flutter.embedding.android.FlutterActivity
 

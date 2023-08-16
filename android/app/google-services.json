@@ -1,77 +1,34 @@
 {
   "project_info": {
-    "project_number": "610396238684",
-    "project_id": "crypto-coins-fcce1",
-    "storage_bucket": "crypto-coins-fcce1.appspot.com"
+    "project_number": "155154783281",
+    "project_id": "anpii-faa21",
+    "storage_bucket": "anpii-faa21.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:610396238684:android:22bcbb4caed4edcc218799",
+        "mobilesdk_app_id": "1:155154783281:android:f255803270121cdeac4910",
         "android_client_info": {
-          "package_name": "com.example.flutter_my_app"
+          "package_name": "ancientle.pixx.propoz"
         }
       },
       "oauth_client": [
         {
-          "client_id": "610396238684-hodv6rtqj2fl8cm4nl30276l3k19ivr5.apps.googleusercontent.com",
+          "client_id": "155154783281-tk5tfn36emtju4us32ruo9536okrnpfm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBozEe5LRcafYZN0_9kizymYRo4wrlpEOM"
+          "current_key": "AIzaSyBRDV-SCnWCh5HzetujffkQ5A4agnkdD58"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "610396238684-hodv6rtqj2fl8cm4nl30276l3k19ivr5.apps.googleusercontent.com",
+              "client_id": "155154783281-tk5tfn36emtju4us32ruo9536okrnpfm.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "610396238684-97596qvt8luul9p5klracj2i64amfe7v.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.flutterMyApp"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:610396238684:android:11f2d158fc848f48218799",
-        "android_client_info": {
-          "package_name": "com.example.flutter_test_app"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "610396238684-hodv6rtqj2fl8cm4nl30276l3k19ivr5.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBozEe5LRcafYZN0_9kizymYRo4wrlpEOM"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "610396238684-hodv6rtqj2fl8cm4nl30276l3k19ivr5.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "610396238684-97596qvt8luul9p5klracj2i64amfe7v.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.flutterMyApp"
-              }
             }
           ]
         }
