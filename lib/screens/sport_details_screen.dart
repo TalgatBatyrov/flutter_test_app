@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_test_app/models/sport_item.dart';
+
+import '../models/sport_item.dart';
 
 class SportDetailsScreen extends StatelessWidget {
   final SportsItem sportsItem;

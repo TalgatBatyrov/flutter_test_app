@@ -1,11 +1,11 @@
+import 'package:Px/screens/sport_news.dart';
+import 'package:Px/screens/web_view_screen.dart';
 import 'package:firebase_remote_config/firebase_remote_config.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_test_app/screens/not_internet_connection_screen.dart';
-import 'package:flutter_test_app/screens/sport_news.dart';
-import 'package:flutter_test_app/screens/web_view_screen.dart';
 
 import '../blocs/remote_config_cubit.dart';
+import 'not_internet_connection_screen.dart';
 
 class Home extends StatelessWidget {
   const Home({super.key});
@@ -13,7 +13,7 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
-      create: (context) => RemoteConfigCubit(FirebaseRemoteConfig.instance),
+      create: (_) => RemoteConfigCubit(FirebaseRemoteConfig.instance),
       child: const ContentWidget(),
     );
   }

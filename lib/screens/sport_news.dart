@@ -1,5 +1,5 @@
+import 'package:Px/screens/sport_details_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_test_app/screens/sport_details_screen.dart';
 
 import '../models/sport_item.dart';
 
